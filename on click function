@@ -1,0 +1,10 @@
+function App(){
+function apple()
+{
+return{
+<div className="App">
+<button onClick={apple()>Click Me</button>
+</div>
+);
+)
+export defualt App;
